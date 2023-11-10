@@ -3,7 +3,7 @@
 Hi there! I'm Breno, a brazilian full stack dev, and computer science student at UFRJ.
 
 ### 📱 You can find me on the links bellow:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/brenocurvello) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocurvello/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenocsb@dcc.ufrj.br) 
 
 ### 💻 Main Languages:
