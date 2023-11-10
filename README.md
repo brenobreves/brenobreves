@@ -1,6 +1,6 @@
 ### 👋 Wellcome to my GitHub page! 
 
-Hi there! I'm Breno, a brazilian full stack dev, and computer science student at UFRJ.
+Hi there! I'm Breno, a brazilian full stack dev & computer science student @ UFRJ.
 
 ### 📱 You can find me on the links bellow:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocurvello/)
