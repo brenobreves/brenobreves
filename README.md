@@ -51,9 +51,11 @@ Hi there! I'm Breno, a brazilian full stack dev & computer science student @ UFR
 
 <hr />
 
-### 📉 Stats:
-<div align="center">
-    <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brenobreves&show_icons=true&locale=en&layout=compact&theme=dark" alt="Breno Breves" />
-    <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brenobreves&show_icons=true&locale=en&theme=dark" alt="Breno Breves" />
-</div>
+<details>
+    <summary><b>📉 Github Stats</b></summary>
+    <div align="left">
+        <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brenobreves&show_icons=true&locale=en&layout=compact&theme=dark" alt="Breno Breves" />
+        <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brenobreves&show_icons=true&locale=en&theme=dark" alt="Breno Breves" />
+    </div>
+</details>
 
