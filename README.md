@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=073ebd&size=35&center=true&vCenter=true&width=1000&lines=👋+Wellcome+to+my+GitHub+page!;)](https://git.io/typing-svg)
 
-Hi there! I'm Breno, a brazilian full stack dev & computer science student @ UFRJ.
+### Hi there! I'm Breno, a brazilian full stack dev & computer science student @ UFRJ.
 
 ### 📱 You can find me on the links bellow:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocurvello/)
