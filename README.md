@@ -1,4 +1,4 @@
-### 👋 Wellcome to my GitHub page! 
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=073ebd&size=35&center=true&vCenter=true&width=1000&lines=👋+Wellcome+to+my+GitHub+page!;)](https://git.io/typing-svg)
 
 Hi there! I'm Breno, a brazilian full stack dev & computer science student @ UFRJ.
 
