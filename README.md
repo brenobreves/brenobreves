@@ -6,6 +6,8 @@ Hi there! I'm Breno, a brazilian full stack dev & computer science student @ UFR
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocurvello/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenocsb@dcc.ufrj.br) 
 
+<hr />
+
 ### 💻 Main Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -36,6 +38,8 @@ Hi there! I'm Breno, a brazilian full stack dev & computer science student @ UFR
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+<hr />
+
 ### 💡 Want to learn:
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -44,3 +48,12 @@ Hi there! I'm Breno, a brazilian full stack dev & computer science student @ UFR
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCLoud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MSAzure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+<hr />
+
+### 📉 Stats:
+<div align="center">
+    <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=brenobreves&show_icons=true&locale=en&layout=compact&theme=dark" alt="Breno Breves" />
+    <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brenobreves&show_icons=true&locale=en&theme=dark" alt="Breno Breves" />
+</div>
+
